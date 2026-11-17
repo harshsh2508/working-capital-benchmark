@@ -1,0 +1,13 @@
+company,metric,screener,mine,abs_diff,pct_diff
+HAL,DSO,45,46.7,1.7,3.7
+HAL,DIO,859,564.5,294.5,-34.3
+HAL,DPO,116,81.1,34.9,-30.1
+HAL,CCC,788,530.1,257.9,-32.7
+L&T,DSO,77,77.6,0.6,0.8
+L&T,DIO,36,18.0,18.0,-49.9
+L&T,DPO,265,131.3,133.7,-50.4
+L&T,CCC,-152,-35.7,116.3,-76.5
+Cummins,DSO,83,84.1,1.1,1.4
+Cummins,DIO,56,54.1,1.9,-3.3
+Cummins,DPO,79,76.5,2.5,-3.2
+Cummins,CCC,60,61.8,1.8,2.9
