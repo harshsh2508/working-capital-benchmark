@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 
 st.set_page_config(page_title="Working Capital Benchmark", page_icon="📊", layout="wide")
-OUT = Path(__file__).parent / "outputs"
+OUT = Path(__file__).parent 
 
 @st.cache_data(ttl=3600)
 def load():
